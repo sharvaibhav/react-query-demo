@@ -5,6 +5,7 @@ This repository contains a demo application built with React and React Query, sh
 ## Table of Contents
 
 - [Introduction](#introduction)
+- [Presentation](#presentation)
 - [Features](#features)
 - [Getting Started](#getting-started)
   - [Prerequisites](#prerequisites)
@@ -14,6 +15,10 @@ This repository contains a demo application built with React and React Query, sh
 ## Introduction
 
 This project demonstrates how to use React Query for data fetching and state management in a React application. React Query simplifies data fetching, caching, synchronization, and updating of server state in your React applications.
+
+## Presentation
+Here is the presentation where I talked about how react query can be helpful, this is inspired by `TKDODO` content on why we need react query.
+[presentation](presentation.md)
 
 ## Features
 
